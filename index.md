@@ -5,8 +5,11 @@ Auf dieser Projektseite finden Sie die bereits veröffentlichten OER zu diesem T
 Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten Web-OER die Verwendung des Chrome-Browsers, um eine verlangsamte Wiedergabe zu vermeiden.
 
 ### Audacity
-Software-Simulation mit Übungen: [Projekt-Seite](https://wissualisierung.github.io/medpaed/audacity/)
+#### Software-Simulation mit Übungen: 
+[Projekt-Seite](https://wissualisierung.github.io/medpaed/audacity/)
 
-Experten-Evaluation (Medienpädagogen): [PDF](https://wissualisierung.github.io/medpaed/audacity/download/Feedback zu Audacity.pdf)
+#### Experten-Evaluation (Medienpädagogen): 
+[PDF](https://wissualisierung.github.io/medpaed/audacity/download/Feedback zu Audacity.pdf)
 
-Nutzer-Evaluation (Schüler): [PDF](https://wissualisierung.github.io/medpaed/audacity/download/Feedback zu Audacity_sus.pdf)
+#### Nutzer-Evaluation (Sonstige Anwender und Schüler): 
+[PDF](https://wissualisierung.github.io/medpaed/audacity/download/Feedback zu Audacity_sus.pdf)
