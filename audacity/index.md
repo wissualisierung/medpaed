@@ -14,7 +14,7 @@ Klickt zum Starten der Anwendungen auf ein Lernpaket, es öffnet sich dann in ei
 
 ### Kreative Übung
 
-![Sonnenuntergang](https://wissualisierung.github.io/medpaed/download/uebung/Sunset Ocean Pixabay.png)
+![Sonnenuntergang](https://wissualisierung.github.io/medpaed/download/Sunset Ocean Pixabay-wide.png)
 
 Ihr habt alle Lernmodule bearbeitet? Dann könnt ihr jetzt nochmal kreativ werden! Bearbeitet die folgenden Übungsaufgaben! Wenn ihr etwas noch nicht ganz genau verstanden habt, dann schaut euch ruhig nochmal die Lernpakete an! (Bei Problemen könnt ihr euch natürlich auch an euren Lehrer wenden.) Die Soundbibliothek könnt ihr mit 7zip oder einem ähnlichen Programm entpacken. 
 
