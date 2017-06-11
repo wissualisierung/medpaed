@@ -10,7 +10,7 @@ Die folgenden Lernpakete behandeln die wichtigsten Arbeitsschritte, die ihr behe
 
 Klickt zum Starten der Anwendungen auf ein Lernpaket, es öffnet sich dann in einem neuen Fenster oder Tab. (Ihr dürft die Ausführung erlauben, wenn der Browser nach eurer Erlaubnis fragt!)
 
-[Einführung in das Programm]
+[Einführung in das Programm](https://wissualisierung.github.io/medpaed/download/html5-audacity/story.html)
 
 [Anwenden von Effekten](https://wissualisierung.github.io/medpaed/download/html5-effekte/index.html)
 
