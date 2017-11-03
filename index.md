@@ -9,7 +9,7 @@ Software-Simulation mit Übungen:
 [Projekt-Seite](https://wissualisierung.github.io/medpaed/audacity/)
 
 Experten-Evaluation (Medienpädagogen): 
-[PDF](https://wissualisierung.github.io/medpaed/audacity/download/Feedback zu Audacity.pdf)
+[PDF](https://wissualisierung.github.io/medpaed/download/Feedback zu Audacity.pdf)
 
 Nutzer-Evaluation (Sonstige Anwender und Schüler): 
-[PDF](https://wissualisierung.github.io/medpaed/audacity/download/Feedback zu Audacity_sus.pdf)
+[PDF](https://wissualisierung.github.io/medpaed/download/Feedback zu Audacity_sus.pdf)
