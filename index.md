@@ -5,6 +5,8 @@ Auf dieser Projektseite finden Sie die bereits veröffentlichten OER zu diesem T
 Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten Web-OER die Verwendung des Chrome-Browsers, um eine verlangsamte Wiedergabe zu vermeiden.
 
 ### Audacity
+Wenn Sie ein kleines Hörspiel, Mini-Feature oder ähnliche Audio-Produkte erstellen wollen, dann können Sie die Software Audacity nutzen. Das Programm ist Open-Source und besticht durch einen sehr klaren, durchdachten Aufbau. Auch Anfänger können sich dadurch schnell mit den grundlegenden Funktionen vertraut machen. Eine kleine Hilfestellung finden Sie in der folgenden E-Learning-Einheit, die 2017 im Rahmen einer universitären Veranstaltung entstanden ist. 
+
 Software-Simulation mit Übungen: 
 [Projekt-Seite](https://wissualisierung.github.io/medpaed/audacity/)
 
