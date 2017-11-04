@@ -16,5 +16,6 @@ Nutzer-Evaluation (Sonstige Anwender und Schüler):
 
 ### PowerPoint
 Idealerweise nutzen Sie PowerPoint nicht zur Erstellung von sog. "Textwüsten", sondern zur Gestaltung lebendiger Präsentationen. Sie können die Software aber auch noch deutlich kreativer einsetzen. So ist es möglich, Stop-Motion- oder Animationsfilme zu erstellen. Hierfür öffnen Sie Ihre Animation und gehen über DATEI / EXPORTIEREN zum Befehl "Als Video exportieren". PowerPoint speichert die Datei als MP4 ab. 
+
 Das folgende Beispiel wurde ausschließlich mit PowerPoint erstellt. Grundlage war ein Stop-Motion-Ansatz und der anschließende szenenweise Export als Video. 
 [![Goethe](https://wissualisierung.github.io/medpaed/assets/goethe.png)](https://youtu.be/R6_pNWvXF44) 
