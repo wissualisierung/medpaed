@@ -16,7 +16,7 @@ Experten-Evaluation (Medienpädagogen):
 Nutzer-Evaluation (Sonstige Anwender und Schüler): 
 [PDF](https://wissualisierung.github.io/medpaed/download/Feedback zu Audacity_sus.pdf)
 
-Tipps für angehende Hör-Funker finden Sie auf [radio-machen](https://www.radio-machen.de/) oder bei der [Fachstelle für Internationale Jugendarbeit der Bundesrepublik Deutschland e.V.](https://www.ijab.de/uploads/tx_ttproducts/datasheet/Podcast.pdf). 
+Tipps für angehende Hör-Funker finden Sie auf [radio-machen](https://www.radio-machen.de/) oder bei der [Fachstelle für Internationale Jugendarbeit der Bundesrepublik Deutschland e.V.](https://www.ijab.de/uploads/tx_ttproducts/datasheet/Podcast.pdf) 
 
 ### Animationen "verfilmen" mit PowerPoint
 Idealerweise nutzen Sie PowerPoint nicht zur Erstellung von sog. "Textwüsten", sondern zur Gestaltung lebendiger Präsentationen. Sie können die Software aber auch noch deutlich kreativer einsetzen. So ist es möglich, Stop-Motion- oder Animationsfilme zu erstellen. Hierfür öffnen Sie Ihre Animation und gehen über DATEI / EXPORTIEREN zum Befehl "Als Video exportieren". PowerPoint speichert die Datei als MP4 ab. 
