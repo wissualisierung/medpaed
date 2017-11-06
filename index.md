@@ -4,7 +4,7 @@ Auf dieser Projektseite finden Sie die bereits veröffentlichten OER zu diesem T
 
 Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten Web-OER die Verwendung des Chrome-Browsers, um eine verlangsamte Wiedergabe zu vermeiden.
 
-### Audacity
+### Das Tonstudio für daheim: Audacity
 Wenn Sie ein kleines Hörspiel, Mini-Feature oder ähnliche Audio-Produkte erstellen wollen, dann können Sie die Software Audacity nutzen. Das Programm ist Open-Source und besticht durch einen sehr klaren, durchdachten Aufbau. Auch Anfänger können sich dadurch schnell mit den grundlegenden Funktionen vertraut machen. Eine kleine Hilfestellung finden Sie in der folgenden E-Learning-Einheit, die 2017 im Rahmen einer universitären Veranstaltung entstanden ist. 
 
 Software-Simulation mit Übungen: 
@@ -16,7 +16,9 @@ Experten-Evaluation (Medienpädagogen):
 Nutzer-Evaluation (Sonstige Anwender und Schüler): 
 [PDF](https://wissualisierung.github.io/medpaed/download/Feedback zu Audacity_sus.pdf)
 
-### PowerPoint
+Tipps für angehende Hör-Funker finden Sie auf [radio-machen](https://www.radio-machen.de/) oder bei der [Fachstelle für Internationale Jugendarbeit der Bundesrepublik Deutschland e.V.](https://www.ijab.de/uploads/tx_ttproducts/datasheet/Podcast.pdf). 
+
+### Animationen "verfilmen" mit PowerPoint
 Idealerweise nutzen Sie PowerPoint nicht zur Erstellung von sog. "Textwüsten", sondern zur Gestaltung lebendiger Präsentationen. Sie können die Software aber auch noch deutlich kreativer einsetzen. So ist es möglich, Stop-Motion- oder Animationsfilme zu erstellen. Hierfür öffnen Sie Ihre Animation und gehen über DATEI / EXPORTIEREN zum Befehl "Als Video exportieren". PowerPoint speichert die Datei als MP4 ab. 
 
 Das folgende Beispiel wurde ausschließlich mit PowerPoint erstellt. Grundlage war ein Stop-Motion-Ansatz und der anschließende szenenweise Export als Video. 
