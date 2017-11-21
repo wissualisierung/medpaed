@@ -23,3 +23,8 @@ Idealerweise nutzen Sie PowerPoint nicht zur Erstellung von sog. "Textwüsten", 
 
 Das folgende Beispiel wurde ausschließlich mit PowerPoint erstellt. Grundlage war ein Stop-Motion-Ansatz und der anschließende szenenweise Export als Video. 
 [![Goethe](https://wissualisierung.github.io/medpaed/assets/goethe.png)](https://youtu.be/R6_pNWvXF44) 
+
+Und auch dieses Erklärvideo wurde ausschließlich mit PowerPoint erstellt. Genutzt wurden normale Standardfolien mit den gängigen Animationen und Folienüberblendungen. Die Textspur kann direkt in PowerPoint eingesprochen werden. 
+[![Was ist](https://wissualisierung.github.io/medpaed/assets/nachricht.png)](https://youtu.be/VxrFkWFfLLM)
+
+Tipps für angehende Filmemacher finden Sie auf der Seite des [Instituts für Medienpädagogik in Forschung und Praxis](http://www.jff.de/toolbox/category/home/) und dem [Wissensportal der Deutschen Filmakademie](http://www.vierundzwanzig.de/de/filmbildung/). 
