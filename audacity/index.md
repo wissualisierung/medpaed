@@ -1,6 +1,6 @@
 ## Audacity - das Tonstudio für daheim
 
-Mit der Gratis-Software „Audacity“ schneidet und optimiert ihr Musik und Sprachaufnahmen auf professionelle Art und Weise. Damit die Arbeit am Projekt gelingt, findet ihr hier einige Tutorials. Ihr könnt euch mit den ersten Lernpaketen über die Grundlagen der Arbeit mit dem Programm und die wichtigsten Effekte informieren. Abschließend könnt ihr euch noch in den (freiwilligen) Übungsaufgaben kreativ austoben.
+Mit der Gratis-Software [„Audacity“](http://www.audacityteam.org/) schneidet und optimiert ihr Musik und Sprachaufnahmen auf professionelle Art und Weise. Damit die Arbeit am Projekt gelingt, findet ihr hier einige Tutorials. Ihr könnt euch mit den ersten Lernpaketen über die Grundlagen der Arbeit mit dem Programm und die wichtigsten Effekte informieren. Abschließend könnt ihr euch noch in den (freiwilligen) Übungsaufgaben kreativ austoben.
 
 ### Einführung in das Programm "Audacity"
 
