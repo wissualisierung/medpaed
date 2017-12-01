@@ -18,6 +18,9 @@ Experten-Evaluation (Medienpädagogen):
 Nutzer-Evaluation (Sonstige Anwender und Schüler): 
 [PDF](https://wissualisierung.github.io/medpaed/download/Feedback zu Audacity_sus.pdf)
 
+Das folgende Beispiel wurde ausschließlich mit Audacity bearbeitet.
+[![Audio](https://wissualisierung.github.io/medpaed/assets/audio.png)](https://wissualisierung.github.io/medpaed/assets/riesenspielzeug.mp3) 
+
 Tipps für angehende Hör-Funker finden Sie auf [radio-machen](https://www.radio-machen.de/) oder bei der [Fachstelle für Internationale Jugendarbeit der Bundesrepublik Deutschland e.V.](https://www.ijab.de/uploads/tx_ttproducts/datasheet/Podcast.pdf) 
 
 ### Animationen "verfilmen" mit PowerPoint
