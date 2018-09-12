@@ -34,3 +34,5 @@ Und auch dieses Erklärvideo wurde ausschließlich mit PowerPoint erstellt. Genu
 [![Was ist](https://wissualisierung.github.io/medpaed/assets/nachricht.png)](https://youtu.be/VxrFkWFfLLM)
 
 Tipps für angehende Filmemacher finden Sie auf der Seite des [Instituts für Medienpädagogik in Forschung und Praxis](http://www.jff.de/toolbox/category/home/) und dem [Wissensportal der Deutschen Filmakademie](http://www.vierundzwanzig.de/de/filmbildung/). 
+
+Ein Infoblatt zur Erstellung eines Storyboards finden Sie [hier](https://wissualisierung.github.io/medpaed/assets/Storyboard.pdf). 
